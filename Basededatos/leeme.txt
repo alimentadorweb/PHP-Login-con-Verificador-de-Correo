@@ -1,0 +1,6 @@
+/////INSTRUCCIONES///////
+
+LA BASE DEBE LLAMARSE register_user o en cos contrario configure el archivo database_connection.php
+
+
+Twitter: @alimentadorweb
